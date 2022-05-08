@@ -1,0 +1,75 @@
+{
+	"version": "3.11.0",
+	"examples": [{
+		"id": "./spec/delete_spec.rb[1:1]",
+		"description": "delete",
+		"full_description": "make delete delete",
+		"status": "passed",
+		"file_path": "./spec/delete_spec.rb",
+		"line_number": 2,
+		"run_time": 0.676056,
+		"pending_message": null
+	}, {
+		"id": "./spec/get_spec.rb[1:1]",
+		"description": "get",
+		"full_description": "make a request get",
+		"status": "passed",
+		"file_path": "./spec/get_spec.rb",
+		"line_number": 3,
+		"run_time": 1.8120253,
+		"pending_message": null
+	}, {
+		"id": "./spec/post_spec.rb[1:1]",
+		"description": "post",
+		"full_description": "make um required post",
+		"status": "passed",
+		"file_path": "./spec/post_spec.rb",
+		"line_number": 2,
+		"run_time": 0.6883721,
+		"pending_message": null
+	}, {
+		"id": "./spec/put_patch_spec.rb[1:1:1]",
+		"description": "put",
+		"full_description": "make request to update datas put",
+		"status": "passed",
+		"file_path": "./spec/put_patch_spec.rb",
+		"line_number": 3,
+		"run_time": 0.7032345,
+		"pending_message": null
+	}, {
+		"id": "./spec/put_patch_spec.rb[1:1:2]",
+		"description": "patch",
+		"full_description": "make request to update datas patch",
+		"status": "passed",
+		"file_path": "./spec/put_patch_spec.rb",
+		"line_number": 19,
+		"run_time": 0.6586055,
+		"pending_message": null
+	}, {
+		"id": "./spec/token_spec.rb[1:1]",
+		"description": "token",
+		"full_description": "use token token",
+		"status": "passed",
+		"file_path": "./spec/token_spec.rb",
+		"line_number": 2,
+		"run_time": 13.1471785,
+		"pending_message": null
+	}, {
+		"id": "./spec/validation_response_spec.rb[1:1]",
+		"description": "get",
+		"full_description": "make request by id get",
+		"status": "passed",
+		"file_path": "./spec/validation_response_spec.rb",
+		"line_number": 3,
+		"run_time": 0.6494097,
+		"pending_message": null
+	}],
+	"summary": {
+		"duration": 18.3713757,
+		"example_count": 7,
+		"failure_count": 0,
+		"pending_count": 0,
+		"errors_outside_of_examples_count": 0
+	},
+	"summary_line": "7 examples, 0 failures"
+}
